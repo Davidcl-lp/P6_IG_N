@@ -213,6 +213,7 @@ function updateHUD() {
       WASD: Moverse<br>
       Q/E: Rotar<br>
       R/F: Subir/Bajar<br>
+      Fechas: Dirección<br>
       <br>
       <i>Presiona Enter para cambiar la vista</i>
     `;
