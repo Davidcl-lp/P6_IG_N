@@ -268,4 +268,6 @@ Luego abre la dirección local que te indique vite (por ejemplo `http://localhos
 
 Además el link al codesandbox es https://codesandbox.io/p/sandbox/practica-6-ky63rk
 
+También he incluido un vídeo donde poder ver el programa en ejecución: https://drive.google.com/file/d/1mUmnSk-lC1k0SlFDpcsuGGk63gWwOoLq/view?usp=drive_link
+
 ---
