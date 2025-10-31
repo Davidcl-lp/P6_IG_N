@@ -59,7 +59,7 @@ let SolarSystem = [
 ];
 ```
 
-Cada planeta se crea mediante funciones específicas que generan geometrías esféricas, aplican texturas y añaden órbitas elípticas. Además se ha ajustado cada radio de forma individual tanto del planeta y estrella como de sus orbitas para que el sistema se pueda ver comodamente en su totalidad por motivos didacticos.
+Cada planeta se crea mediante funciones específicas que generan geometrías esféricas, aplican texturas y añaden órbitas elípticas. Además se ha ajustado cada radio de forma individual de los planetas y el sol además de sus orbitas para que el sistema se pueda ver comodamente en su totalidad por motivos didacticos.
 
 ---
 
@@ -264,7 +264,7 @@ npm install
 npx vite
 ```
 
-Luego abre la dirección local que te indique vite (por defecto `http://localhost:5173`).
+Luego abre la dirección local que te indique vite (por ejemplo `http://localhost:5173`).
 
 Además el link al codesandbox es https://codesandbox.io/p/sandbox/practica-6-ky63rk
 
